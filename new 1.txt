@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 b
+=======
+censa
+hwuhsuw wkjsiwjs
+wjsowjsojs
+>>>>>>> branch1
